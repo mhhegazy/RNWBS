@@ -1,10 +1,10 @@
-# Render Noodels Windows Background Service [RNWBS] (Tested on Windows Only) 
+# Render Noodels Windows Background Service [RNWBS] 
 
 #### Windows Background Service act as websocket client and it responsable for:
    - connect to websocket of server.
    - send current state of machine.
-        - watch process and send what is running and what is not.
-        - watch cpu and memory usage. 
+    - watch process and send what is running and what is not.
+    - watch cpu and memory usage. 
    - receive commands and execute them.
    - connect to tray client ui and tell it connection status.
 
@@ -36,4 +36,4 @@
 -----
 ## Testing
 
-t
+@TODO
